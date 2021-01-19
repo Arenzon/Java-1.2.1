@@ -4,5 +4,3 @@ public class Money {
         int contribution = 500_000_000;
         int total = account + contribution;
         System. out. println(total);
-    }
-}
